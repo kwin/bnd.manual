@@ -1,7 +1,7 @@
 ---
-title: Maven Build Plugin
+title: Maven Bundle Plugin
 layout: default
-summary: The Apache Felix Maven plugin
+summary: The Apache Felix Maven Bundle plugin
 version: 2.4
 ---
 
